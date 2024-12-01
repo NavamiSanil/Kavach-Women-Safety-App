@@ -27,76 +27,76 @@
       ________________________________________
 
 2. Overall Description
-2.1 Product Perspective
-Kavach integrates multiple safety and empowerment features into a single mobile application. It leverages smartphone capabilities like GPS, accelerometer, and magnetometer sensors to deliver reliable and efficient responses in emergencies.
-
-2.2 Product Functions
-The core functionalities include:
-•	Emergency SOS with GPS tracking.
-•	Hidden Camera Detection using sensors.
-•	Customizable emergency contacts for alerts.
-•	Direct dialing to emergency numbers.
-•	Daily safety tips for users.
-
-2.3 User Classes and Characteristics
-1.	Primary Users: Women (ages 13–60) who need a simple and intuitive safety app.
-2.	Secondary Users: Authorities and family members who receive alerts.
-3.	NGOs: Collaborate for content related to women’s rights and safety.
-
-2.4 Operating Environment
-•	Android: Versions 8.0 (Oreo) and above.
-•	Hardware Requirements: GPS, magnetometer, accelerometer, and internet connection.
-
-2.5 Design and Implementation Constraints
-•	Continuous GPS tracking may drain battery life.
-•	Some features require specific sensors (e.g., magnetometer).
-
-2.6 User Documentation
-The app includes an interactive tutorial and a detailed help section for setting up and using features.
-
-2.7 Assumptions and Dependencies
-•	Users have smartphones with basic hardware requirements.
-•	An active internet connection for emergency speed dial and SOS updates.
-________________________________________
+      2.1 Product Perspective
+      Kavach integrates multiple safety and empowerment features into a single mobile application. It leverages smartphone capabilities like GPS, accelerometer, and magnetometer sensors to deliver reliable and efficient responses in emergencies.
+      
+      2.2 Product Functions
+      The core functionalities include:
+      •	Emergency SOS with GPS tracking.
+      •	Hidden Camera Detection using sensors.
+      •	Customizable emergency contacts for alerts.
+      •	Direct dialing to emergency numbers.
+      •	Daily safety tips for users.
+      
+      2.3 User Classes and Characteristics
+      1.	Primary Users: Women (ages 13–60) who need a simple and intuitive safety app.
+      2.	Secondary Users: Authorities and family members who receive alerts.
+      3.	NGOs: Collaborate for content related to women’s rights and safety.
+      
+      2.4 Operating Environment
+      •	Android: Versions 8.0 (Oreo) and above.
+      •	Hardware Requirements: GPS, magnetometer, accelerometer, and internet connection.
+      
+      2.5 Design and Implementation Constraints
+      •	Continuous GPS tracking may drain battery life.
+      •	Some features require specific sensors (e.g., magnetometer).
+      
+      2.6 User Documentation
+      The app includes an interactive tutorial and a detailed help section for setting up and using features.
+      
+      2.7 Assumptions and Dependencies
+      •	Users have smartphones with basic hardware requirements.
+      •	An active internet connection for emergency speed dial and SOS updates.
+      ________________________________________
 
 3. System Features
-3.1 Emergency SOS
-Description: Sends the user’s real-time location to predefined contacts via SMS or in-app notifications.
-Priority: High.
-
-Stimulus/Response Sequence:
-•	Stimulus: User presses the SOS button.
-•	Response: App sends an alert with location data and triggers a loud alarm.
-________________________________________
-
-3.5 Safety Tips
-Description: Displays daily personal safety guidelines for users.
-Priority: Medium.
-Stimulus/Response Sequence:
-•	Stimulus: User selects "Safety Tips".
-•	Response: App displays curated tips, such as staying vigilant in public spaces or sharing trip details with trusted contacts.
-________________________________________
-
-3.6 Emergency Speed Dial
-Description: Provides one-tap access to dial emergency services like police, ambulance, or women’s protection helplines.
-Priority: High.
-Stimulus/Response Sequence:
-•	Stimulus: User taps an emergency speed dial button.
-•	Response: App directly dials the selected service.
-________________________________________
-3.7 Emergency Contact Management
-Description: Allows users to add, update, or delete emergency contacts.
-Priority: High.
-Stimulus/Response Sequence:
-•	Stimulus: User edits the contact list in settings.
-•	Response: App saves and verifies the changes.
-________________________________________
+      3.1 Emergency SOS
+      Description: Sends the user’s real-time location to predefined contacts via SMS or in-app notifications.
+      Priority: High.
+      
+      Stimulus/Response Sequence:
+      •	Stimulus: User presses the SOS button.
+      •	Response: App sends an alert with location data and triggers a loud alarm.
+      ________________________________________
+      
+      3.5 Safety Tips
+      Description: Displays daily personal safety guidelines for users.
+      Priority: Medium.
+      Stimulus/Response Sequence:
+      •	Stimulus: User selects "Safety Tips".
+      •	Response: App displays curated tips, such as staying vigilant in public spaces or sharing trip details with trusted contacts.
+      ________________________________________
+      
+      3.6 Emergency Speed Dial
+      Description: Provides one-tap access to dial emergency services like police, ambulance, or women’s protection helplines.
+      Priority: High.
+      Stimulus/Response Sequence:
+      •	Stimulus: User taps an emergency speed dial button.
+      •	Response: App directly dials the selected service.
+      ________________________________________
+      3.7 Emergency Contact Management
+      Description: Allows users to add, update, or delete emergency contacts.
+      Priority: High.
+      Stimulus/Response Sequence:
+      •	Stimulus: User edits the contact list in settings.
+      •	Response: App saves and verifies the changes.
+      ________________________________________
 
 4. Nonfunctional Requirements
-4.1 Performance Requirements
-•	SOS alerts must send within 3 seconds.
-•	The app should work efficiently on low data networks.
-________________________________________
+      4.1 Performance Requirements
+      •	SOS alerts must send within 3 seconds.
+      •	The app should work efficiently on low data networks.
+      ________________________________________
 
 5. Future Enhancements
 1.	Integration with Wearable Devices.
