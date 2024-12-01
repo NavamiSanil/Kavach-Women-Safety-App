@@ -1,31 +1,30 @@
 
-
 1. Introduction
-1.1 Description
-Kavach is a cutting-edge mobile application designed specifically to address women's safety concerns. The app integrates real-time safety features like Emergency SOS, Hidden Camera Detection, and a Siren Alarm, complemented by tools like Safety Tips, Emergency Speed Dial, and Emergency Contact Management.
-
-1.2 Purpose
-The purpose of this app is to enhance safety and empower women by providing a reliable lifeline in emergencies and offering precautionary tools for day-to-day use. Kavach aims to reduce response times during crises, increase awareness, and create a safer environment for women.
-1.3 Intended Audience and Reading Suggestions
-This report is intended for:
-•	Developers: To understand the technical details and features.
-•	Testers: To create test cases based on system features.
-•	End-users: To explore app functionalities and usability.
-•	Managers: To monitor project progress and ensure compliance with requirements.
-
-1.4 Product Scope
-Kavach offers a robust set of features:
-•	Emergency SOS alerts that share real-time GPS locations with trusted contacts.
-•	Tools for detecting hidden surveillance cameras.
-•	A customizable siren alarm for immediate public attention.
-•	Safety tips for personal security awareness.
-•	Instant access to emergency numbers like police, ambulance, and women’s protection helplines.
-
-1.5 References
-•	Android Developer Documentation
-•	Magnetometer Sensor API Documentation
-•	News API Documentation
-________________________________________
+      1.1 Description
+      Kavach is a cutting-edge mobile application designed specifically to address women's safety concerns. The app integrates real-time safety features like Emergency SOS, Hidden Camera Detection, and a Siren Alarm, complemented by tools like Safety Tips, Emergency Speed Dial, and Emergency Contact Management.
+      
+      1.2 Purpose
+      The purpose of this app is to enhance safety and empower women by providing a reliable lifeline in emergencies and offering precautionary tools for day-to-day use. Kavach aims to reduce response times during crises, increase awareness, and create a safer environment for women.
+      1.3 Intended Audience and Reading Suggestions
+      This report is intended for:
+      •	Developers: To understand the technical details and features.
+      •	Testers: To create test cases based on system features.
+      •	End-users: To explore app functionalities and usability.
+      •	Managers: To monitor project progress and ensure compliance with requirements.
+      
+      1.4 Product Scope
+      Kavach offers a robust set of features:
+      •	Emergency SOS alerts that share real-time GPS locations with trusted contacts.
+      •	Tools for detecting hidden surveillance cameras.
+      •	A customizable siren alarm for immediate public attention.
+      •	Safety tips for personal security awareness.
+      •	Instant access to emergency numbers like police, ambulance, and women’s protection helplines.
+      
+      1.5 References
+      •	Android Developer Documentation
+      •	Magnetometer Sensor API Documentation
+      •	News API Documentation
+      ________________________________________
 
 2. Overall Description
 2.1 Product Perspective
