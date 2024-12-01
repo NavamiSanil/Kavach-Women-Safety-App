@@ -1,3 +1,5 @@
+
+
 1. Introduction
 1.1 Description
 Kavach is a cutting-edge mobile application designed specifically to address women's safety concerns. The app integrates real-time safety features like Emergency SOS, Hidden Camera Detection, and a Siren Alarm, complemented by tools like Safety Tips, Emergency Speed Dial, and Emergency Contact Management.
