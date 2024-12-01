@@ -106,22 +106,3 @@ ________________________________________
 •	Splash Screen: Welcomes users and displays the app logo.
 •	Main Dashboard: Includes SOS, Hidden Camera Detection, Siren Alarm, and Safety Tips.
 •	Settings: For managing emergency contacts, language preferences, and app tutorials.
-________________________________________
-7. Screenshots of the Front End
-  
-
-    
-________________________________________
-
-
-
-
-
-
-
-
-8. Code Snippets
- 
- 
- 
-
